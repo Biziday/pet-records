@@ -1,0 +1,174 @@
+Owner Name,Pet Name,Pet Type,Gender,Owner Address,Grooming Service Type,Service Date,Service Price,Customer ID,Groomer ID,Appointment ID,Pet ID,Pet Breed,Preferred Groomer Years of Experience,Groomer Gender,Appointment Status,Appointment Date,Time
+Hannah,Charlie,Bird,Female,101 Purr Pl,Bathing,30/10/2024,50,CUST0001,GROOM018,APPT00001,PET0001,Bulldog,3,Female,Cancelled,02/12/2024,12:30
+Alice,Daisy,Rabbit,Female,456 Groom Ave,Bathing,20/08/2024,120,CUST0002,GROOM020,APPT00002,PET0002,Poodle,14,Male,Scheduled,21/11/2024,09:30
+Daisy,Charlie,Dog,Female,123 Pet St,Nail Trimming,06/06/2024,90,CUST0003,GROOM020,APPT00003,PET0003,Bulldog,10,Female,Completed,21/11/2024,14:45
+Charlie,Lucy,Bird,Female,101 Purr Pl,Ear Cleaning,06/03/2024,50,CUST0004,GROOM007,APPT00004,PET0004,Siamese,9,Female,Scheduled,02/12/2024,13:45
+Alice,Rocky,Dog,Female,123 Pet St,Dental Care,16/10/2024,120,CUST0005,GROOM002,APPT00005,PET0005,Persian,8,Female,Completed,06/11/2024,15:45
+Daisy,Milo,Rabbit,Female,101 Purr Pl,Full Grooming,29/07/2024,150,CUST0006,GROOM009,APPT00006,PET0006,Labrador,8,Female,Scheduled,23/11/2024,17:30
+Alice,Daisy,Bird,Female,456 Groom Ave,Dental Care,03/12/2023,90,CUST0007,GROOM013,APPT00007,PET0007,Bulldog,7,Female,Cancelled,26/11/2024,12:15
+George,Oscar,Bird,Female,456 Groom Ave,Dental Care,21/01/2024,70,CUST0008,GROOM005,APPT00008,PET0008,Persian,14,Female,Scheduled,18/11/2024,10:30
+Jill,Lola,Bird,Male,123 Pet St,Full Grooming,05/10/2024,90,CUST0009,GROOM019,APPT00009,PET0009,Persian,1,Female,Completed,12/11/2024,18:15
+Charlie,Bella,Bird,Female,123 Pet St,Ear Cleaning,22/03/2024,120,CUST0010,GROOM004,APPT00010,PET0010,Poodle,12,Male,Completed,19/11/2024,16:00
+Alice,Buddy,Bird,Male,202 Wag Blvd,Nail Trimming,29/07/2024,100,CUST0011,GROOM005,APPT00011,PET0011,Bulldog,1,Female,Completed,22/11/2024,18:15
+Hannah,Milo,Bird,Female,202 Wag Blvd,Nail Trimming,22/08/2024,90,CUST0012,GROOM018,APPT00012,PET0012,Poodle,15,Female,Completed,10/11/2024,14:15
+George,Lola,Dog,Female,123 Pet St,Ear Cleaning,14/01/2024,120,CUST0013,GROOM011,APPT00013,PET0013,Corgi,5,Female,Scheduled,30/11/2024,15:15
+Charlie,Lola,Cat,Female,789 Bark Rd,Bathing,25/09/2024,100,CUST0014,GROOM018,APPT00014,PET0014,Siamese,11,Female,Scheduled,26/11/2024,11:15
+Daisy,Charlie,Bird,Male,123 Pet St,Dental Care,19/07/2024,90,CUST0015,GROOM013,APPT00015,PET0015,Corgi,9,Male,Completed,06/11/2024,11:30
+Charlie,Charlie,Dog,Female,456 Groom Ave,Bathing,21/07/2024,150,CUST0016,GROOM019,APPT00016,PET0016,Bulldog,3,Male,Scheduled,06/11/2024,13:45
+Charlie,Daisy,Dog,Male,202 Wag Blvd,Haircut,15/07/2024,70,CUST0017,GROOM008,APPT00017,PET0017,Persian,10,Female,Scheduled,02/12/2024,13:15
+Daisy,Oscar,Bird,Male,202 Wag Blvd,Haircut,30/07/2024,50,CUST0018,GROOM020,APPT00018,PET0018,Poodle,5,Female,Completed,06/11/2024,10:00
+George,Milo,Dog,Female,789 Bark Rd,Ear Cleaning,25/10/2024,120,CUST0019,GROOM006,APPT00019,PET0019,Persian,7,Male,Cancelled,09/11/2024,15:45
+Daisy,Buddy,Dog,Male,456 Groom Ave,Bathing,20/06/2024,150,CUST0020,GROOM007,APPT00020,PET0020,Angora,2,Female,Completed,08/11/2024,10:00
+Ian,Daisy,Bird,Female,456 Groom Ave,Nail Trimming,16/04/2024,150,CUST0021,GROOM020,APPT00021,PET0021,Beagle,9,Female,Scheduled,17/11/2024,09:30
+Daisy,Bella,Dog,Female,123 Pet St,Bathing,18/05/2024,70,CUST0022,GROOM013,APPT00022,PET0022,Persian,13,Male,Scheduled,26/11/2024,13:00
+Ian,Charlie,Rabbit,Female,123 Pet St,Full Grooming,18/08/2024,120,CUST0023,GROOM015,APPT00023,PET0023,Labrador,4,Male,Scheduled,28/11/2024,18:30
+Bob,Charlie,Bird,Male,789 Bark Rd,Bathing,11/02/2024,30,CUST0024,GROOM009,APPT00024,PET0024,Siamese,14,Male,Completed,22/11/2024,11:15
+Jill,Lola,Dog,Female,789 Bark Rd,Dental Care,27/12/2023,150,CUST0025,GROOM005,APPT00025,PET0025,Siamese,4,Female,Cancelled,07/11/2024,09:30
+Jill,Charlie,Rabbit,Female,456 Groom Ave,Dental Care,19/10/2024,150,CUST0026,GROOM009,APPT00026,PET0026,Angora,15,Female,Completed,26/11/2024,11:45
+Ethan,Daisy,Rabbit,Female,101 Purr Pl,Haircut,11/10/2024,120,CUST0027,GROOM020,APPT00027,PET0027,Corgi,8,Female,Scheduled,27/11/2024,12:30
+Ethan,Lucy,Cat,Female,123 Pet St,Haircut,19/07/2024,70,CUST0028,GROOM010,APPT00028,PET0028,Bulldog,12,Male,Scheduled,18/11/2024,16:30
+George,Buddy,Rabbit,Female,123 Pet St,Ear Cleaning,29/08/2024,100,CUST0029,GROOM016,APPT00029,PET0029,Labrador,13,Female,Scheduled,30/11/2024,17:00
+Alice,Buddy,Dog,Female,202 Wag Blvd,Ear Cleaning,20/09/2024,70,CUST0030,GROOM008,APPT00030,PET0030,Poodle,10,Female,Scheduled,18/11/2024,15:30
+Jill,Max,Rabbit,Female,202 Wag Blvd,Ear Cleaning,11/12/2023,150,CUST0031,GROOM012,APPT00031,PET0031,Bulldog,3,Female,Scheduled,25/11/2024,15:00
+Fiona,Rocky,Rabbit,Female,202 Wag Blvd,Full Grooming,11/02/2024,150,CUST0032,GROOM012,APPT00032,PET0032,Labrador,4,Male,Completed,01/12/2024,12:15
+Bob,Lucy,Bird,Female,123 Pet St,Full Grooming,24/12/2023,90,CUST0033,GROOM013,APPT00033,PET0033,Persian,10,Male,Cancelled,08/11/2024,14:00
+Fiona,Bella,Cat,Male,202 Wag Blvd,Dental Care,07/08/2024,100,CUST0034,GROOM006,APPT00034,PET0034,Poodle,15,Female,Completed,21/11/2024,10:00
+Daisy,Charlie,Bird,Male,202 Wag Blvd,Nail Trimming,04/01/2024,100,CUST0035,GROOM009,APPT00035,PET0035,Siamese,2,Male,Cancelled,08/11/2024,10:30
+George,Buddy,Rabbit,Female,202 Wag Blvd,Bathing,15/07/2024,50,CUST0036,GROOM019,APPT00036,PET0036,Poodle,2,Female,Scheduled,07/11/2024,10:45
+Bob,Lucy,Bird,Female,123 Pet St,Full Grooming,30/10/2024,120,CUST0037,GROOM005,APPT00037,PET0037,Corgi,2,Male,Scheduled,08/11/2024,12:00
+Daisy,Buddy,Rabbit,Female,789 Bark Rd,Full Grooming,08/06/2024,100,CUST0038,GROOM013,APPT00038,PET0038,Persian,6,Male,Cancelled,25/11/2024,16:45
+Alice,Buddy,Rabbit,Male,202 Wag Blvd,Ear Cleaning,12/11/2023,50,CUST0039,GROOM006,APPT00039,PET0039,Poodle,14,Female,Scheduled,02/11/2024,18:00
+Ian,Buddy,Cat,Male,789 Bark Rd,Haircut,01/10/2024,90,CUST0040,GROOM018,APPT00040,PET0040,Corgi,1,Female,Completed,29/11/2024,16:15
+Fiona,Charlie,Rabbit,Female,789 Bark Rd,Bathing,11/10/2024,90,CUST0041,GROOM002,APPT00041,PET0041,Beagle,7,Male,Cancelled,20/11/2024,18:15
+Bob,Daisy,Rabbit,Male,101 Purr Pl,Bathing,18/03/2024,120,CUST0042,GROOM015,APPT00042,PET0042,Angora,14,Male,Scheduled,02/11/2024,16:15
+Bob,Lucy,Bird,Female,789 Bark Rd,Bathing,27/07/2024,120,CUST0043,GROOM004,APPT00043,PET0043,Siamese,3,Male,Scheduled,26/11/2024,17:30
+Charlie,Bella,Bird,Female,202 Wag Blvd,Bathing,25/05/2024,50,CUST0044,GROOM010,APPT00044,PET0044,Poodle,4,Male,Completed,16/11/2024,10:30
+Bob,Lola,Cat,Female,123 Pet St,Haircut,23/05/2024,70,CUST0045,GROOM019,APPT00045,PET0045,Beagle,9,Male,Scheduled,05/11/2024,16:00
+Ian,Max,Rabbit,Male,202 Wag Blvd,Dental Care,29/05/2024,120,CUST0046,GROOM010,APPT00046,PET0046,Beagle,9,Female,Scheduled,20/11/2024,14:00
+Fiona,Lola,Rabbit,Male,456 Groom Ave,Nail Trimming,14/11/2023,150,CUST0047,GROOM008,APPT00047,PET0047,Persian,1,Female,Scheduled,23/11/2024,10:00
+Charlie,Lola,Cat,Female,202 Wag Blvd,Haircut,04/06/2024,90,CUST0048,GROOM015,APPT00048,PET0048,Corgi,15,Male,Completed,22/11/2024,09:30
+Fiona,Lucy,Rabbit,Male,456 Groom Ave,Bathing,12/05/2024,150,CUST0049,GROOM014,APPT00049,PET0049,Bulldog,13,Female,Completed,29/11/2024,17:15
+Fiona,Rocky,Dog,Female,123 Pet St,Full Grooming,13/10/2024,50,CUST0050,GROOM005,APPT00050,PET0050,Labrador,11,Male,Completed,07/11/2024,12:45
+Charlie,Max,Bird,Female,789 Bark Rd,Nail Trimming,11/11/2023,50,CUST0051,GROOM019,APPT00051,PET0051,Persian,10,Female,Scheduled,02/12/2024,16:00
+Ian,Oscar,Cat,Male,789 Bark Rd,Nail Trimming,10/12/2023,70,CUST0052,GROOM008,APPT00052,PET0052,Labrador,8,Female,Cancelled,17/11/2024,16:30
+Fiona,Bella,Rabbit,Male,101 Purr Pl,Ear Cleaning,14/08/2024,120,CUST0053,GROOM011,APPT00053,PET0053,Angora,8,Female,Completed,30/11/2024,13:30
+Ian,Bella,Bird,Male,456 Groom Ave,Ear Cleaning,29/08/2024,120,CUST0054,GROOM017,APPT00054,PET0054,Bulldog,14,Female,Scheduled,13/11/2024,09:30
+Fiona,Charlie,Cat,Male,202 Wag Blvd,Bathing,22/12/2023,50,CUST0055,GROOM020,APPT00055,PET0055,Corgi,15,Male,Completed,21/11/2024,13:00
+Daisy,Milo,Rabbit,Male,123 Pet St,Ear Cleaning,04/11/2023,100,CUST0056,GROOM018,APPT00056,PET0056,Corgi,11,Female,Scheduled,07/11/2024,18:30
+Ian,Oscar,Bird,Female,101 Purr Pl,Dental Care,15/08/2024,90,CUST0057,GROOM002,APPT00057,PET0057,Poodle,9,Female,Scheduled,03/11/2024,15:30
+Hannah,Max,Cat,Female,101 Purr Pl,Bathing,08/05/2024,70,CUST0058,GROOM003,APPT00058,PET0058,Corgi,9,Female,Completed,05/11/2024,14:45
+Daisy,Oscar,Rabbit,Female,123 Pet St,Nail Trimming,17/05/2024,150,CUST0059,GROOM017,APPT00059,PET0059,Siamese,10,Female,Scheduled,24/11/2024,15:15
+Hannah,Rocky,Bird,Female,123 Pet St,Haircut,14/02/2024,100,CUST0060,GROOM014,APPT00060,PET0060,Corgi,4,Male,Scheduled,18/11/2024,09:15
+George,Bella,Rabbit,Female,202 Wag Blvd,Nail Trimming,02/03/2024,120,CUST0061,GROOM019,APPT00061,PET0061,Angora,2,Male,Scheduled,10/11/2024,13:15
+Daisy,Oscar,Cat,Female,789 Bark Rd,Haircut,18/05/2024,120,CUST0062,GROOM005,APPT00062,PET0062,Siamese,8,Male,Scheduled,22/11/2024,12:15
+Ethan,Daisy,Dog,Female,202 Wag Blvd,Full Grooming,15/04/2024,30,CUST0063,GROOM008,APPT00063,PET0063,Siamese,2,Female,Completed,07/11/2024,12:45
+Hannah,Daisy,Dog,Female,123 Pet St,Ear Cleaning,15/05/2024,150,CUST0064,GROOM015,APPT00064,PET0064,Corgi,11,Female,Completed,09/11/2024,16:30
+Bob,Charlie,Cat,Male,101 Purr Pl,Full Grooming,08/05/2024,100,CUST0065,GROOM020,APPT00065,PET0065,Persian,13,Female,Completed,01/12/2024,11:45
+Fiona,Buddy,Dog,Male,456 Groom Ave,Haircut,30/06/2024,70,CUST0066,GROOM013,APPT00066,PET0066,Beagle,2,Female,Scheduled,23/11/2024,14:30
+Alice,Charlie,Dog,Male,101 Purr Pl,Dental Care,06/07/2024,120,CUST0067,GROOM006,APPT00067,PET0067,Labrador,13,Male,Completed,09/11/2024,15:15
+Ian,Lola,Rabbit,Male,456 Groom Ave,Nail Trimming,20/08/2024,50,CUST0068,GROOM010,APPT00068,PET0068,Persian,14,Male,Cancelled,25/11/2024,10:30
+George,Daisy,Bird,Male,456 Groom Ave,Ear Cleaning,25/04/2024,150,CUST0069,GROOM016,APPT00069,PET0069,Corgi,7,Female,Scheduled,02/12/2024,15:30
+Alice,Rocky,Bird,Male,456 Groom Ave,Bathing,24/02/2024,30,CUST0070,GROOM014,APPT00070,PET0070,Corgi,4,Male,Completed,08/11/2024,16:00
+Charlie,Rocky,Dog,Female,456 Groom Ave,Haircut,05/02/2024,150,CUST0071,GROOM016,APPT00071,PET0071,Poodle,8,Female,Completed,10/11/2024,13:15
+Alice,Oscar,Rabbit,Female,202 Wag Blvd,Nail Trimming,06/01/2024,150,CUST0072,GROOM014,APPT00072,PET0072,Angora,7,Male,Cancelled,15/11/2024,11:30
+Hannah,Lucy,Dog,Female,456 Groom Ave,Full Grooming,07/09/2024,100,CUST0073,GROOM017,APPT00073,PET0073,Labrador,5,Male,Scheduled,02/12/2024,11:15
+Hannah,Lucy,Dog,Male,123 Pet St,Dental Care,11/12/2023,150,CUST0074,GROOM003,APPT00074,PET0074,Angora,8,Female,Scheduled,07/11/2024,12:00
+Charlie,Buddy,Dog,Male,101 Purr Pl,Haircut,30/11/2023,70,CUST0075,GROOM002,APPT00075,PET0075,Persian,11,Female,Cancelled,13/11/2024,16:00
+Fiona,Oscar,Bird,Male,789 Bark Rd,Nail Trimming,02/09/2024,120,CUST0076,GROOM008,APPT00076,PET0076,Poodle,6,Female,Scheduled,05/11/2024,17:15
+Charlie,Charlie,Dog,Female,456 Groom Ave,Bathing,08/02/2024,100,CUST0077,GROOM006,APPT00077,PET0077,Bulldog,6,Female,Cancelled,29/11/2024,16:45
+Daisy,Lucy,Rabbit,Male,789 Bark Rd,Nail Trimming,09/03/2024,100,CUST0078,GROOM005,APPT00078,PET0078,Poodle,9,Male,Cancelled,17/11/2024,13:15
+Ethan,Milo,Bird,Male,789 Bark Rd,Dental Care,31/07/2024,50,CUST0079,GROOM004,APPT00079,PET0079,Beagle,6,Male,Cancelled,06/11/2024,16:30
+Hannah,Lola,Rabbit,Female,202 Wag Blvd,Bathing,21/07/2024,120,CUST0080,GROOM018,APPT00080,PET0080,Persian,6,Female,Cancelled,11/11/2024,15:15
+Ethan,Buddy,Rabbit,Female,202 Wag Blvd,Bathing,28/07/2024,70,CUST0081,GROOM010,APPT00081,PET0081,Corgi,3,Male,Scheduled,15/11/2024,12:00
+Charlie,Daisy,Rabbit,Female,202 Wag Blvd,Nail Trimming,15/04/2024,90,CUST0082,GROOM017,APPT00082,PET0082,Bulldog,6,Female,Cancelled,04/11/2024,10:30
+Ian,Max,Bird,Female,101 Purr Pl,Bathing,26/10/2024,70,CUST0083,GROOM008,APPT00083,PET0083,Labrador,3,Female,Cancelled,02/11/2024,09:45
+Ian,Buddy,Bird,Male,789 Bark Rd,Dental Care,05/12/2023,50,CUST0084,GROOM006,APPT00084,PET0084,Bulldog,10,Male,Completed,08/11/2024,10:15
+Bob,Bella,Dog,Female,202 Wag Blvd,Bathing,12/02/2024,100,CUST0085,GROOM014,APPT00085,PET0085,Angora,2,Female,Scheduled,19/11/2024,11:30
+George,Max,Bird,Male,101 Purr Pl,Haircut,26/12/2023,90,CUST0086,GROOM008,APPT00086,PET0086,Beagle,8,Female,Completed,10/11/2024,18:45
+George,Lucy,Bird,Female,789 Bark Rd,Ear Cleaning,13/07/2024,150,CUST0087,GROOM004,APPT00087,PET0087,Labrador,13,Female,Scheduled,02/11/2024,14:30
+Bob,Lola,Cat,Female,789 Bark Rd,Bathing,09/02/2024,90,CUST0088,GROOM002,APPT00088,PET0088,Labrador,15,Female,Completed,16/11/2024,12:15
+Bob,Milo,Bird,Male,101 Purr Pl,Full Grooming,17/05/2024,120,CUST0089,GROOM012,APPT00089,PET0089,Bulldog,7,Female,Completed,02/12/2024,17:15
+Daisy,Daisy,Bird,Female,789 Bark Rd,Dental Care,24/11/2023,50,CUST0090,GROOM019,APPT00090,PET0090,Labrador,5,Male,Completed,07/11/2024,16:30
+Charlie,Lola,Bird,Male,789 Bark Rd,Nail Trimming,15/11/2023,100,CUST0091,GROOM017,APPT00091,PET0091,Poodle,11,Male,Cancelled,14/11/2024,16:15
+Ian,Buddy,Cat,Male,202 Wag Blvd,Haircut,12/07/2024,50,CUST0092,GROOM006,APPT00092,PET0092,Corgi,7,Female,Cancelled,11/11/2024,16:30
+Fiona,Buddy,Cat,Female,789 Bark Rd,Bathing,14/12/2023,150,CUST0093,GROOM017,APPT00093,PET0093,Bulldog,3,Female,Completed,11/11/2024,17:15
+Hannah,Max,Dog,Male,101 Purr Pl,Haircut,09/11/2023,100,CUST0094,GROOM017,APPT00094,PET0094,Beagle,10,Male,Cancelled,27/11/2024,16:00
+Bob,Daisy,Bird,Male,456 Groom Ave,Bathing,11/05/2024,90,CUST0095,GROOM012,APPT00095,PET0095,Beagle,11,Female,Scheduled,10/11/2024,15:30
+Jill,Daisy,Bird,Male,202 Wag Blvd,Haircut,13/11/2023,50,CUST0096,GROOM016,APPT00096,PET0096,Siamese,7,Female,Cancelled,25/11/2024,12:15
+Hannah,Charlie,Dog,Female,101 Purr Pl,Nail Trimming,19/06/2024,70,CUST0097,GROOM017,APPT00097,PET0097,Angora,10,Male,Completed,08/11/2024,09:45
+Charlie,Milo,Rabbit,Female,456 Groom Ave,Haircut,03/05/2024,120,CUST0098,GROOM020,APPT00098,PET0098,Corgi,3,Female,Cancelled,08/11/2024,17:15
+Bob,Bella,Cat,Male,101 Purr Pl,Haircut,15/06/2024,30,CUST0099,GROOM009,APPT00099,PET0099,Poodle,8,Male,Cancelled,26/11/2024,10:30
+Charlie,Rocky,Bird,Male,789 Bark Rd,Full Grooming,26/07/2024,90,CUST0100,GROOM011,APPT00100,PET0100,Poodle,12,Female,Cancelled,02/11/2024,15:15
+Ian,Milo,Cat,Male,202 Wag Blvd,Ear Cleaning,03/08/2024,100,CUST0101,GROOM016,APPT00101,PET0101,Angora,1,Male,Completed,06/11/2024,11:15
+Ethan,Rocky,Bird,Female,202 Wag Blvd,Ear Cleaning,17/03/2024,90,CUST0102,GROOM001,APPT00102,PET0102,Persian,13,Female,Completed,11/11/2024,12:30
+Alice,Max,Bird,Female,123 Pet St,Nail Trimming,22/06/2024,70,CUST0103,GROOM001,APPT00103,PET0103,Labrador,9,Male,Scheduled,08/11/2024,16:00
+Fiona,Max,Cat,Male,789 Bark Rd,Haircut,27/06/2024,30,CUST0104,GROOM015,APPT00104,PET0104,Persian,12,Male,Scheduled,01/12/2024,18:15
+Bob,Rocky,Cat,Male,101 Purr Pl,Full Grooming,20/03/2024,150,CUST0105,GROOM009,APPT00105,PET0105,Persian,4,Female,Scheduled,12/11/2024,09:15
+Ian,Max,Dog,Female,101 Purr Pl,Haircut,19/10/2024,70,CUST0106,GROOM015,APPT00106,PET0106,Bulldog,7,Female,Completed,13/11/2024,13:00
+Alice,Milo,Bird,Female,202 Wag Blvd,Nail Trimming,01/11/2024,100,CUST0107,GROOM012,APPT00107,PET0107,Bulldog,12,Male,Scheduled,20/11/2024,15:45
+Fiona,Charlie,Cat,Male,789 Bark Rd,Bathing,04/12/2023,90,CUST0108,GROOM005,APPT00108,PET0108,Beagle,8,Female,Scheduled,03/11/2024,18:30
+Alice,Lucy,Cat,Male,101 Purr Pl,Bathing,16/06/2024,150,CUST0109,GROOM004,APPT00109,PET0109,Siamese,8,Female,Completed,15/11/2024,12:30
+Bob,Oscar,Rabbit,Female,101 Purr Pl,Ear Cleaning,28/04/2024,150,CUST0110,GROOM010,APPT00110,PET0110,Labrador,4,Female,Completed,08/11/2024,16:15
+Ian,Buddy,Dog,Female,789 Bark Rd,Bathing,26/04/2024,70,CUST0111,GROOM008,APPT00111,PET0111,Poodle,13,Male,Scheduled,17/11/2024,16:00
+Ian,Charlie,Bird,Male,789 Bark Rd,Full Grooming,18/11/2023,50,CUST0112,GROOM018,APPT00112,PET0112,Bulldog,14,Male,Scheduled,19/11/2024,18:45
+Charlie,Charlie,Rabbit,Female,456 Groom Ave,Full Grooming,13/07/2024,70,CUST0113,GROOM002,APPT00113,PET0113,Bulldog,9,Female,Completed,22/11/2024,14:00
+Daisy,Bella,Rabbit,Female,456 Groom Ave,Bathing,05/01/2024,120,CUST0114,GROOM003,APPT00114,PET0114,Poodle,3,Male,Cancelled,18/11/2024,11:45
+Charlie,Lola,Dog,Female,101 Purr Pl,Ear Cleaning,19/05/2024,100,CUST0115,GROOM020,APPT00115,PET0115,Poodle,7,Male,Completed,05/11/2024,12:30
+Daisy,Daisy,Bird,Male,456 Groom Ave,Ear Cleaning,08/01/2024,150,CUST0116,GROOM014,APPT00116,PET0116,Siamese,12,Female,Cancelled,30/11/2024,18:00
+Daisy,Daisy,Cat,Female,202 Wag Blvd,Haircut,28/10/2024,30,CUST0117,GROOM003,APPT00117,PET0117,Angora,9,Male,Completed,07/11/2024,17:45
+Jill,Oscar,Rabbit,Male,456 Groom Ave,Dental Care,27/05/2024,50,CUST0118,GROOM008,APPT00118,PET0118,Siamese,8,Male,Completed,09/11/2024,15:45
+Charlie,Daisy,Rabbit,Male,789 Bark Rd,Bathing,20/12/2023,70,CUST0119,GROOM008,APPT00119,PET0119,Poodle,12,Female,Completed,24/11/2024,10:30
+Daisy,Bella,Cat,Female,789 Bark Rd,Full Grooming,15/08/2024,120,CUST0120,GROOM016,APPT00120,PET0120,Beagle,8,Male,Scheduled,27/11/2024,14:30
+Charlie,Lucy,Rabbit,Female,101 Purr Pl,Bathing,26/06/2024,90,CUST0121,GROOM007,APPT00121,PET0121,Bulldog,9,Male,Cancelled,11/11/2024,15:45
+Daisy,Bella,Bird,Male,202 Wag Blvd,Haircut,15/09/2024,100,CUST0122,GROOM014,APPT00122,PET0122,Bulldog,10,Male,Completed,24/11/2024,12:30
+Alice,Charlie,Cat,Male,456 Groom Ave,Dental Care,02/08/2024,50,CUST0123,GROOM006,APPT00123,PET0123,Siamese,7,Male,Scheduled,03/11/2024,15:15
+George,Lola,Rabbit,Female,456 Groom Ave,Haircut,30/07/2024,70,CUST0124,GROOM001,APPT00124,PET0124,Corgi,4,Female,Scheduled,30/11/2024,17:45
+Fiona,Rocky,Dog,Male,123 Pet St,Nail Trimming,04/11/2023,150,CUST0125,GROOM015,APPT00125,PET0125,Labrador,14,Female,Cancelled,17/11/2024,11:45
+Ethan,Bella,Bird,Male,789 Bark Rd,Ear Cleaning,30/01/2024,70,CUST0126,GROOM006,APPT00126,PET0126,Persian,5,Male,Completed,18/11/2024,17:30
+Jill,Daisy,Dog,Female,202 Wag Blvd,Dental Care,10/06/2024,150,CUST0127,GROOM006,APPT00127,PET0127,Labrador,8,Female,Completed,04/11/2024,10:45
+Ian,Lola,Bird,Male,123 Pet St,Ear Cleaning,12/09/2024,150,CUST0128,GROOM007,APPT00128,PET0128,Persian,14,Female,Cancelled,21/11/2024,09:30
+Jill,Oscar,Cat,Male,789 Bark Rd,Nail Trimming,23/10/2024,100,CUST0129,GROOM001,APPT00129,PET0129,Angora,8,Female,Cancelled,03/11/2024,10:00
+Ethan,Daisy,Dog,Female,123 Pet St,Full Grooming,07/12/2023,50,CUST0130,GROOM001,APPT00130,PET0130,Bulldog,1,Male,Scheduled,27/11/2024,09:30
+Hannah,Bella,Dog,Female,202 Wag Blvd,Nail Trimming,01/10/2024,90,CUST0131,GROOM020,APPT00131,PET0131,Beagle,12,Male,Completed,27/11/2024,13:00
+Hannah,Max,Bird,Female,789 Bark Rd,Haircut,29/10/2024,50,CUST0132,GROOM002,APPT00132,PET0132,Labrador,7,Male,Completed,28/11/2024,11:30
+Jill,Bella,Bird,Female,456 Groom Ave,Full Grooming,12/10/2024,100,CUST0133,GROOM001,APPT00133,PET0133,Corgi,2,Male,Scheduled,16/11/2024,16:30
+George,Charlie,Bird,Female,456 Groom Ave,Nail Trimming,28/11/2023,90,CUST0134,GROOM011,APPT00134,PET0134,Angora,4,Male,Cancelled,30/11/2024,18:15
+Fiona,Lola,Bird,Male,101 Purr Pl,Bathing,22/04/2024,120,CUST0135,GROOM008,APPT00135,PET0135,Beagle,11,Male,Scheduled,02/11/2024,10:30
+Bob,Lola,Dog,Female,202 Wag Blvd,Ear Cleaning,04/06/2024,50,CUST0136,GROOM016,APPT00136,PET0136,Persian,13,Female,Scheduled,22/11/2024,17:45
+Bob,Max,Cat,Female,123 Pet St,Dental Care,09/03/2024,70,CUST0137,GROOM014,APPT00137,PET0137,Persian,2,Female,Cancelled,19/11/2024,11:30
+Bob,Max,Rabbit,Female,101 Purr Pl,Haircut,21/07/2024,120,CUST0138,GROOM001,APPT00138,PET0138,Beagle,1,Male,Completed,16/11/2024,18:00
+Daisy,Max,Bird,Female,789 Bark Rd,Full Grooming,20/12/2023,90,CUST0139,GROOM016,APPT00139,PET0139,Beagle,10,Male,Scheduled,29/11/2024,12:30
+Alice,Buddy,Rabbit,Female,789 Bark Rd,Full Grooming,15/03/2024,90,CUST0140,GROOM005,APPT00140,PET0140,Bulldog,8,Female,Completed,28/11/2024,15:15
+Daisy,Rocky,Bird,Male,101 Purr Pl,Dental Care,16/08/2024,50,CUST0141,GROOM014,APPT00141,PET0141,Labrador,3,Male,Completed,05/11/2024,12:15
+Charlie,Max,Rabbit,Female,456 Groom Ave,Full Grooming,24/04/2024,50,CUST0142,GROOM009,APPT00142,PET0142,Angora,7,Female,Scheduled,16/11/2024,13:15
+Bob,Lola,Rabbit,Male,789 Bark Rd,Bathing,19/10/2024,30,CUST0143,GROOM001,APPT00143,PET0143,Corgi,12,Male,Cancelled,05/11/2024,11:45
+Daisy,Charlie,Bird,Male,202 Wag Blvd,Bathing,24/04/2024,70,CUST0144,GROOM020,APPT00144,PET0144,Siamese,8,Male,Completed,24/11/2024,18:30
+Bob,Bella,Dog,Male,101 Purr Pl,Ear Cleaning,30/06/2024,120,CUST0145,GROOM009,APPT00145,PET0145,Bulldog,1,Male,Completed,30/11/2024,13:15
+Alice,Oscar,Cat,Male,789 Bark Rd,Full Grooming,03/10/2024,50,CUST0146,GROOM013,APPT00146,PET0146,Persian,12,Male,Cancelled,15/11/2024,14:30
+Jill,Rocky,Bird,Male,123 Pet St,Dental Care,05/01/2024,50,CUST0147,GROOM010,APPT00147,PET0147,Poodle,8,Male,Cancelled,22/11/2024,14:15
+Daisy,Rocky,Rabbit,Female,202 Wag Blvd,Ear Cleaning,03/09/2024,90,CUST0148,GROOM005,APPT00148,PET0148,Labrador,2,Female,Cancelled,18/11/2024,14:00
+George,Oscar,Dog,Female,202 Wag Blvd,Full Grooming,04/10/2024,70,CUST0149,GROOM004,APPT00149,PET0149,Siamese,1,Female,Scheduled,26/11/2024,11:00
+Ian,Max,Dog,Female,101 Purr Pl,Ear Cleaning,09/09/2024,100,CUST0150,GROOM014,APPT00150,PET0150,Poodle,2,Female,Cancelled,10/11/2024,14:00
+11,we,rew,,,,,,,,,,,,,,,
+was,saw,Dog,m,,,,,,,,,,,,,,
+gol,log,Cat,,,,,,,,,,,,,,,
+get,,,,,,,,,,,,,,,,,
+join,,f,,,,,,,,,,,,,,,
+tab,,Dog,,,,,,,,,,,,,,,
+get,saw,,,,,,,,,,,,,,,,
+hi,hello,cat,,,,,,,,,,,,,,,
+hihi,he,rabbit,,,,,,,,,,,,,,,
+tee,tee,cat,m,,,,,,,,,,,,,,
+q,q,cat,q,q,q,q,q,q,,,,,,,,,
+q,q,cat,q,q,q,q,q,q,q,q,,q,q,q,,,
+q,q,cat,q,q,q,q,q,q,q,q,,q,q,q,q,q,
+a,a,cat,a,a,a,a,a,a,a,a,,a,a,a,a,a,
+q,q,cat,q,qq,q,q,q,q,q,q,,q,q,q,q,q,
+ww,,,,,,,,,,,,,,,,,9
+a,c,cat,q,q,qq,q,q,q,q,q,,q,q,q,q,q,
+r,rr,cat,,,,,,,,,122,,,,,,
+2,2,cat,w,w,w,w,w,w,w,w,w,w,w,w,w,w,
+q,q,cat,q,q,q,q,q,q,q,q,q,q,q,q,q,q,
+q,q,cat,q,,,,,,,,q,,,,,,q
+r,q,cat,,,,,,,,,22,,,,,,9.45
+,,rabbit,,,,,,,,,,,,,,,7
